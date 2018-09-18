@@ -406,7 +406,7 @@ client.on('message', async message => {
     });
    }
 });
-
+hello
 
 client.on('message', msg => {
   if (msg.author.bot) return;
